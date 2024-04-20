@@ -16,6 +16,9 @@ extracted audio track with kdenlive
 transcribed with 
 https://turboscribe.ai/dashboard
 (signed in with google account)
+limits for free version: 
+3 files a day
+one audio max 30 minutes
 
 I tried
 https://console.cloud.google.com/vertex-ai/generative/speech/speech-to-text?project=excellent-hue-420719
