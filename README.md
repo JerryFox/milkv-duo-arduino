@@ -18,7 +18,7 @@ https://turboscribe.ai/dashboard
 (signed in with google account)
 
 limits for free version: 
-3 files a day
+3 files a day, 
 one audio max 30 minutes
 
 I tried
