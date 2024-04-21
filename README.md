@@ -32,3 +32,7 @@ https://www.happyscribe.com/subtitle-tools/srt-time-shift
 
 merge subtitles: 
 https://subtitletools.com/merge-subtitles-online
+
+translation from chinese to english by: 
+https://translate.google.com/
+
