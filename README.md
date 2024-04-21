@@ -9,9 +9,11 @@ https://spotpear.com/MilkV-Duo/forum-answer/160.html
 answer:
 https://www.bilibili.com/video/BV1Em411Z73S/?spm_id_from=333.999.0.0&vd_source=18abbf2903275ae1d235823b42b3c47f
 
-I captured the video on win machine with this:
+I captured the video on win machine with OBS Studio: 
+https://obsproject.com/
 
-extracted audio track with kdenlive
+trimmed and extracted audio track with kdenlive: 
+https://kdenlive.org/en/
 
 transcribed with 
 https://turboscribe.ai/dashboard
