@@ -25,3 +25,10 @@ I tried
 https://console.cloud.google.com/vertex-ai/generative/speech/speech-to-text?project=excellent-hue-420719
 it wasn't good...
 
+online tools for srt files: 
+
+shift subtitles: 
+https://www.happyscribe.com/subtitle-tools/srt-time-shift
+
+merge subtitles: 
+https://subtitletools.com/merge-subtitles-online
